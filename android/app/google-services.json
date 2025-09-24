@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424041397256",
+    "project_id": "reyna-app",
+    "storage_bucket": "reyna-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424041397256:android:5a4ecc8ff5bb67e7c4e5bd",
+        "android_client_info": {
+          "package_name": "com.reyna.reyna_solution_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgeMWGllDIaXqEUjVauaxVecb05a36esk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424041397256:android:1f198ab812413c4cc4e5bd",
+        "android_client_info": {
+          "package_name": "com.reyna.reyna_solution_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgeMWGllDIaXqEUjVauaxVecb05a36esk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
