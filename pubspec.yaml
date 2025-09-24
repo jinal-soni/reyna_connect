@@ -1,0 +1,85 @@
+name: reyna_solution_app
+description: "Reyna Solution"
+publish_to: 'none'
+
+# version: 1.0.0+5 # ios version trial 
+# version: 1.0.1+4 # ios version original 
+version: 1.0.0+10 # android version
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.17
+  animated_notch_bottom_bar: ^1.0.3
+  carousel_slider: ^5.0.0
+  flutter_staggered_grid_view: ^0.7.0
+  provider: ^6.1.5
+  shared_preferences: ^2.5.3
+  flutter_expandable_fab: ^2.5.1
+  firebase_core: ^3.13.1
+  firebase_analytics: ^11.4.4
+  simple_connection_checker: ^0.3.4
+  url_launcher: ^6.2.5
+  share_plus: ^11.0.0
+  path_provider: ^2.1.5
+  http: ^1.4.0
+  syncfusion_flutter_pdfviewer: ^30.2.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - asset/icons/
+    - asset/icons/app_background/
+    - asset/fonts/
+    - asset/images/
+    - asset/images/home_page/
+    - asset/images/home_page/home_page_slider/
+    - asset/images/home_page/mobile_details/
+    - asset/images/blogs/
+    - asset/images/contact_us_page/
+    - asset/images/contact_us_page/clients/
+    - asset/images/home_page/bottom_nav_bar_icons/
+    - asset/images/contact_us_page/contact_us_social_media/
+    - asset/images/home_page/software_details/
+    - asset/images/home_page/ui_ux_details/
+    - asset/images/home_page/qa_testing/
+    - asset/images/home_page/ai_ml_details/
+    - asset/images/contact_us_page/badges/
+    - asset/images/home_page/about_us/
+    - asset/images/home_page/our_clients/
+    - asset/images/home_page/our_tech/
+    - asset/images/know_more_about_us/
+    - asset/images/home_page/web_development/
+    - asset/images/contact_us_page/client_benefits/
+    - asset/images/home_page/menu/
+    - asset/casestudy_pdf/
+    - asset/images/casestudy/
+
+  fonts:
+    - family: bold
+      fonts:
+        - asset: asset/fonts/montserrat/Montserrat-SemiBold.ttf
+    - family: semiBold
+      fonts:
+        - asset: asset/fonts/montserrat/Montserrat-SemiBold.ttf
+    - family: medium
+      fonts:
+        - asset: asset/fonts/montserrat/Montserrat-Medium.ttf
+    - family: regular
+      fonts:
+        - asset: asset/fonts/montserrat/Montserrat-Regular.ttf
+    - family: light
+      fonts:
+        - asset: asset/fonts/montserrat/Montserrat-Light.ttf
+
+  
+  
