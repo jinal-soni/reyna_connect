@@ -1,0 +1,1 @@
+export 'font/font_typography.dart';
